@@ -1,0 +1,266 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>workflow - Ward Adriaensen</title>
+  <meta name="author" content="Ward A.">
+
+  
+  <meta name="description" content="Workflow Hoe ben ik er aan begonnen? We kregen de opdracht om een website te maken waarop we al onze GIP-opdrachten zullen publiceren. Als &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://wardadriaensen.github.io/taken/workflow">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Ward Adriaensen" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+  
+
+</head>
+
+<body   class="collapse-sidebar sidebar-footer" >
+  <header role="banner">
+	<div class="header-title"><a href="/">Ward Adriaensen</a></div>
+
+
+	<br><div class="header-subtitle">Welkom op mijn GIP blog.</div>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:wardadriaensen.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/home">Home</a></li>
+  <li><a href="/taken/workflow">Workflow</a></li>
+  <li><a href="/taken/itprofile">IT-Profile</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article role="article">
+  
+  <header>
+    <h1 class="entry-title">Workflow</h1>
+    <p class="meta">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-10-08T15:49:00+02:00" pubdate data-updated="true"></time></p>
+  </header>
+  
+  <h3>Hoe ben ik er aan begonnen?</h3>
+
+<p>We kregen de opdracht om een website te maken waarop we al onze GIP-opdrachten zullen publiceren. Als hulpmiddeltje mochten we een <em>static site generator</em> gebruiken, hier hadden we nog nooit van gehoord!</p>
+
+<p>Op <a href="http://www.staticgen.com/">www.staticgen.com</a> vonden we verschillende static site generators. Ik heb er verschillende uitgetest:</p>
+
+<ul>
+<li><em>Cabin</em></li>
+<li><em>Gulp</em></li>
+<li><em>Harp</em></li>
+<li><em>Hexo</em></li>
+<li><em>Metalsmith</em></li>
+<li><em>Punch</em></li>
+<li><em>Ruby</em></li>
+<li><em>Susi</em></li>
+<li><em>Techy</em></li>
+</ul>
+
+
+<p>Bij elke generator had ik wel een ander probleem! Na lang zoeken heb ik uiteindelijk gekozen voor Octopress.</p>
+
+<p>De installatie van Octopress ging niet van een leien dakje; ik heb hiervoor de programmeertaal <strong>Ruby</strong> voor moeten installeren, <strong>Git</strong> (Een source code management systeem), en natuurlijk ook <strong>Octopress</strong> zelf.</p>
+
+<hr />
+
+<h3>De installatie van Octopress</h3>
+
+<p>Op de site van <a href="http://octopress.org/docs/">Octopress</a> was de nodige informatie te vinden.</p>
+
+<p>Ik heb deze stappen gevolgd:</p>
+
+<p> <strong>1. Installeren van <em>Git</em></strong></p>
+
+<p><code>choco install git</code></p>
+
+<p> <strong>2. Installeren van Ruby en Ruby devkit en het juistzetten van de paden</strong></p>
+
+<pre><code>    choco install ruby 
+    ruby dk.rb init 
+    ruby dk.rb install
+</code></pre>
+
+<p> <strong>3. Installeren van Octopress, de dependencies en het default thema</strong></p>
+
+<pre><code>    git clone git://github.com/imathis/octopress.git octopress
+    cd octopress
+    gem install bundler
+    rbenv rehash
+    bundle install
+    rake install
+</code></pre>
+
+<p> <strong>4. Installeren van een custom thema</strong></p>
+
+<p>Het default thema is ook maar gewoon normaal, dus heb ik gekozen voor een custom thema (te vinden <a href="https://github.com/ioveracker/mnml">hier</a> op Github).</p>
+
+<p>In de map van octopress:</p>
+
+<pre><code> git clone git://github.com/ioveracker/mnml.git .themes/mnml
+ rake install['mnml']
+ rake generate
+</code></pre>
+
+<p>Je vorige thema wordt automatisch vervangen door het nieuwe.</p>
+
+<hr />
+
+<h3>Het bewerken van de site: workflow</h3>
+
+<p>Maken van een nieuwe pagina</p>
+
+<blockquote><p><code>rake new_page["name"]</code></p></blockquote>
+
+<p>Bewerken van de navigatiebalk</p>
+
+<blockquote><p><code>octopress\source\_includes\custom</code> in de file <code>navigation.html</code></p></blockquote>
+
+<p>Preview weergeven van je site</p>
+
+<blockquote><p><code>rake preview</code></p></blockquote>
+
+<p>Taken schrijven in Markdown</p>
+
+<blockquote><p><a href="https://stackedit.io/editor">https://stackedit.io/editor</a></p></blockquote>
+
+<p>Markdownfiles</p>
+
+<blockquote><p><code>octopress\source\taken</code></p></blockquote>
+
+<p>Aanpassen html, css, yml, &hellip;</p>
+
+<blockquote><p><a href="http://brackets.io/">Brackets</a></p></blockquote>
+
+<p>Kleuren aanpassen van het thema</p>
+
+<blockquote><p><code>octopress\.themes\mnml\sass\custom</code></p></blockquote>
+
+  
+    <footer>
+      <p class="meta">
+        
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-10-08T15:49:00+02:00" pubdate data-updated="true"></time>
+        
+      </p>
+      
+        <div class="sharing">
+  
+  
+  
+</div>
+
+      
+    </footer>
+  
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+  </ul>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/Ward Adriaensen?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 -  Ward A. <br/>
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a> + <a href="https://github.com/ioveracker/mnml">mnml</a>.
+	  
+  </span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
