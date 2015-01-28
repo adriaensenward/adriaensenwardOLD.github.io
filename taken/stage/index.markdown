@@ -1,0 +1,276 @@
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>case study - Ward Adriaensen</title>
+  <meta name="author" content="Ward A.">
+
+  
+  <meta name="description" content="Case Study Inleiding Mijn stagementor had al langer het idee in zijn hoofd om mobiele toestellen hulp te bieden vanop afstand. Er waren soms &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://wardadriaensen.github.io/taken/stage">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="" rel="alternate" title="Ward Adriaensen" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+  
+
+</head>
+
+<body   class="collapse-sidebar sidebar-footer" >
+  <header role="banner">
+	<div class="header-title"><a href="/">Ward Adriaensen</a></div>
+
+
+	<br><div class="header-subtitle">Welkom op mijn GIP blog.</div>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  
+</ul>
+  
+<ul class="main-navigation">
+  <li><a href="/home">Home</a></li>
+  <li><a href="/taken/workflow">Workflow</a></li>
+  <li><a href="/taken/autobiography">Autobiography</a></li>
+  <li><a href="/taken/itprofile">IT-Profile</a></li>
+  <li><a href="/taken/teacher-aid">Teacher Aid</a></li>
+  <li><a href="/taken/stage">Stage</a></li>
+  <li><a href="/taken/ondertiteling">Ondertiteling</a></li>
+
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article role="article">
+  
+  <header>
+    <h1 class="entry-title">Case Study</h1>
+    <p class="meta">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-10-28T16:04:00+01:00" pubdate data-updated="true"></time></p>
+  </header>
+  
+  <h2>Inleiding</h2>
+
+<p>Mijn stagementor had al langer het idee om mobiele toestellen hulp te bieden vanop afstand. Er waren soms situaties waarbij een werknemer zijn e-mails niet aankreeg of een probleem had met zijn mobiele toestel of tablet. Dit moest dan telefonisch opgelost worden maar dat was niet echt praktisch. Hij heeft nog geen tijd gehad om dit project verder uit te werken, daarom stelde Kris voor om dit verder uit te werken als case study. Dit leek mij zeer interessant dus ik ben direct informatie beginnen verzamelen. Ik vond de volgende twee producten die een oplossing zouden kunnen bieden:</p>
+
+<ul>
+<li><a href="https://secure.logmeinrescue.com/be-nl/helpdesk/mobilesupport/overview.aspx">LogMeIn Rescue</a></li>
+<li><a href="http://www.bomgar.com/nl">Bomgar</a></li>
+</ul>
+
+
+<h3>LogMeIn Rescue</h3>
+
+<p>Er zijn verschillende diensten die LogMeIn aanbiedt; Ik heb mij specifiek verdiept in de LogMeIn Rescue software. Dit is exact wat mijn stagementor zoekt voor het bedrijf. Met deze software is het mogelijk om mobiele apparaten te diagnosticerenen het probleem op te lossen van op afstand. De software is compatibel met de meest voorkomende platformen: Android, IOS, Windows, Windows Mobile, Blackberry en Symbian. Wanneer er een probleem is kan deze persoon dit laten weten aan de verantwoordelijke. Deze kan dan binnen enkele seconden de volledige toegang krijgen vanaf de pc: verschillende instellingen, screenshots e.d. Er verschijnt ook een live chat waarmee beide partijen met elkaar kunnen chatten. De besturingsconsole kan 10 sessies tegelijk behandelen. Er is ook een file management optie waarbij de helpdesk alles kan terugvinden en herschikken naar believen. De client moet telkens toestemming geven voor een inkomende verbinding en kan deze ook op elk moment terug stoppen. Na de sessie wordt alle informatie van de client ook verwijderd op de besturingsconsole (i.v.m. privacy). De prijs van dit pakket komt op een jaarlijks bedrag van €1.478,00. Dit bedrag is voor één besturingsconsole.</p>
+
+<h3>Bomgar</h3>
+
+<p>Het principe van Bomgar is ongeveer het zelfde. Zij gebruiken hiervoor een Bomgar Box. Dit is een server waar het verkeer van de remote access doorgaat zodat het afgeschermd wordt van het wereldwijde web. Het is een beveiligde verbinding maar enkel voor toestellen binnen het netwerk (en de Bomgar server). Alle mobiele platformen worden ondersteund. Voor de prijs van dit product moet er contact opgenomen worden met de verkoopdienst van Bomgar. Op deze manier kan er ook een (gratis) proefversie aangevraagd worden.</p>
+
+<p>Tijdens mijn stage ga ik deze twee producten vergelijken met elkaar en zien wat er als beste uit de bus komt. Ze leveren beide een gratis proefversie die ik kan gebruiken en uittesten.</p>
+
+
+<h2 id="versie-2">Versie 2</h2>
+
+<p><strong>Praktische toepassing van LogMeIn Rescue</strong></p>
+
+<p>De hele software is een webapplicatie, dit vind ik persoonlijk een groot voordeel omdat het zo veel toegankelijker is. Wanneer je bent aangemeld kan je twee vensters openen: de Technician Console en Het beheercentrum. Ik heb van een collega een Samsung S4 gekregen om de software goed uit te kunnen testen. Er zijn verschillende mogelijkheden om de pincode, die nodig is om de verbinding te maken, te verzenden naar het mobiele toestel. Je kan een SMS sturen met de code, een email, of je kan gewoon een code creëren die je kan doorbellen. Het mobiele toestel moet eerst een app downloaden waar je de code kan ingeven. Dit kan simpel door op een link te klikken die rechtstreeks verwijst naar de app in de Appstore, Google Playstore, … . Eens het toestel de code heeft ingegeven geeft men een signaal naar de desktop dat er een actieve verbinding is gemaakt die klaar is om overgenomen te worden. Tijdens heel de sessie heb je de mogelijkheid om via de app die geinstalleerd is te chatten met de medewerker die je op dat moment aan het helpen is. Deze medewerker kan zelfs de sessie doorgeven aan een collega. Als alles in orde is en de sessie is gemaakt krijgt je een overzicht van alle informatie die beschikbaar is van het mobiele toestel:
+
+<a href="http://s21.postimg.org/t7l018i1x/schermafdruk_Log_Me_In.jpg"> 
+
+<img src="https://lh3.googleusercontent.com/-dhO2ZAVNa6E/VMdG3tcpu7I/AAAAAAAAARE/rL5keOfQM1Q/s0/schermafdruk+LogMeIn.jpg"> 
+</a> <em>(Klik op de foto voor groter te maken)</em></p>
+
+<p>Er valt verschillende informatie af te lezen over:</p>
+
+<ul>
+<li>Mobiel netwerk</li>
+<li>Accu</li>
+<li>Openstaande processen</li>
+<li>Verbindingen (Bluetooth, Wi-Fi, )</li>
+<li>E-mailaccounts (configureren, aanmaken,...)</li>
+<li>Toepassingen</li>
+<li>…</li>
+</ul>
+
+<p>Er is ook een apparaatweergave die het scherm van het toestel weergeeft. Als je er op klikt kan je de besturing volledig overnemen, dat ziet er als volgt uit:
+
+<a href="http://s21.postimg.org/s40vp9xet/overname_samsung_1.png"> 
+
+<img src="https://lh3.googleusercontent.com/--R89ur6qga0/VMdHFFvrwvI/AAAAAAAAARQ/uIagsnfWCAU/s0/overname+samsung+1.jpg"> 
+</a> <em>(Klik op de foto voor groter te maken)</em></p>
+
+<p>Je krijgt de optie om je muis te laten zien als een rood laserpuntje zodat de gebruiker van het toestel kan meekijken wat je doet. Er kunnen printscreens genomen worden of je kan een schermopname starten.</p>
+
+<p>Er is ook een mogelijkheid om gegevensoverdracht te doen van de pc naar het toestel en andersom. Alle acties die gedaan worden door de medewerker worden weergegeven op de chatfunctie van de app op het toestel zelf:</p>
+
+<p><img src="https://lh5.googleusercontent.com/-WLYoFwx1B1E/VMdHUZToPSI/AAAAAAAAARc/9txpRIEnlQ4/s0/overname+samsung+2.jpg" height="600" width="360" /> </p>
+
+<p>Wanneer de sessie gesloten wordt, opent er een evaluatieformulier waar de eigenaar van het mobiel toestel kan invullen of hij tevreden was en hoe zijn ervaring was met de sessie. Ik weet niet of dit enkel is bij de proefversie of standaard na elke sessie geopend wordt.</p>
+
+<hr />
+
+<p>Mijn persoonlijke ervaring met deze software was zeer positief. LogMeIn Rescue biedt oneindig veel mogelijkheden, je kan zelfs zelfgemaakte XML scriptjes uitvoeren op de verbonden toestellen, letterlijk elke instelling valt te (her)configureren, bestandsoverdracht is mogelijk en alle systeeminformatie is zichtbaar op de webapp. </p>
+
+<p><strong>Wanneer LogMeIn Rescue gebruikt zou worden binnen Stephens Moore:</strong></p>
+
+<ul>
+<li>€1.478,00 / jaar voor 1 abonnement (client)</li>
+<li>maximaal 10 openstaande verbindingen (zelden of nooit nodig)</li>
+<li>biedt ondersteuning aan Windows Phone, Android, Blackberry en Apple</li>
+</ul>
+  
+  <hr />
+<p><strong>Praktische toepassing van Bomgar</strong></p>
+
+<p>Het aanvragen van de trialversie van Bomgar ging heel gemakkelijk. Na inloggegevens gekregen te hebben en de client te downloaden (deze is niet in de browser) kreeg ik de console voor mij. Opnieuw heb je verschilllende manieren om contact te maken met het toestel: een code genereren om door te bellen of mailen maar deze keer ook een mogelijkheid om een toestel, dat op de moment zelf niet in gebruik is, en dat in het netwerk zit, te bereiken:</p>
+
+<p><img alt="Bomgar code" src="https://lh4.googleusercontent.com/-yY77GSN3DHo/VMdTZe4fb2I/AAAAAAAAASA/wW1NdFGHlrI/s0/bomgar.PNG" title="bomgar.PNG" /></p>
+
+<p>Ik zie direct een aantal gelijkenissen met de andere software: er is een system information, file transfer en screen sharing tab:
+
+<a href="https://lh3.googleusercontent.com/-qPjxhoKgoTM/VMdXr4aknMI/AAAAAAAAASQ/SwVp5X4HBMY/s0/bomgar1.png"> 
+<img src="https://lh3.googleusercontent.com/-qPjxhoKgoTM/VMdXr4aknMI/AAAAAAAAASQ/SwVp5X4HBMY/s0/bomgar1.png"> 
+</a> <em>(Klik op de foto voor groter te maken)</em></p>
+
+<p>Een groot en belangrijk verschil met de LogMeIn Rescue is de screen sharing: bij Bomgar is er namelijk niet de keuze om het scherm vanaf de pc helemaal over te nemen, je kan het enkel weergeven binnen de app van Bomgar.
+
+<a href="https://lh5.googleusercontent.com/-FGgrA2LfV2Q/VMdZGPVNmGI/AAAAAAAAASw/sK24ugrWpKc/s0/bomgar2.png"> 
+<img src="https://lh5.googleusercontent.com/-FGgrA2LfV2Q/VMdZGPVNmGI/AAAAAAAAASw/sK24ugrWpKc/s0/bomgar2.png"> 
+</a> <em>(Klik op de foto voor groter te maken)</em></p>
+
+<p>De chat is vergelijkbaar met LogMeIn, alle gebeurtenissen worden er ook in weergeven:</p>
+
+<p><img src="https://lh5.googleusercontent.com/-9UXjvd9RH3Y/VMdYfMwVIVI/AAAAAAAAASg/errUgExGT6g/s0/chat+bomgar.PNG" height="600" width="360" /> </p>
+
+<p>De prijzen van Bomgar kunnen enkel aangevraagd worden door bedrijven die geinteresseerd zijn in het product maar na wat opzoekwerk stel ik vast dat je toch 6000 euro moet rekenen voor enkel de BomgarBox, daar moet je dan nog de clients voor op de pc's bijtellen.</p>
+
+<p><strong>Wanneer Bomgar gebruikt zou worden binnen Stephens Moore:</strong></p>
+
+<ul>
+<li>2000 euro voor BomgarBox + clients voor op de pc's te installeren (prijs niet bevestigd)</li>
+<li>Veilig door middel van de BomgarBox die gevoelige informatie binnen het netwerk houdt</li>
+<li>Simpel in begruik</li>
+<li>Minder mogelijkheden dan de LogMeIn concurrent</li>
+</ul>
+
+
+<h2 id="conclusie">Conclusie</h2>
+
+<p>Voor mij wint de <em>LogMeIn Rescue</em> overduidelijk: het heeft enorm veel mogelijkheden die Bomgar niet aanbiedt; om er maar één op te noemen: de remote access is veel uitgebreider. 
+Ik vind het ook veel gebruiksvriendelijker omdat het een webapplicatie is. Dit maakt het toegankelijker.</p>
+    <footer>
+      <p class="meta">
+        
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-10-28T16:04:00+01:00" pubdate data-updated="true"></time>
+        
+      </p>
+      
+        <div class="sharing">
+  
+  
+  
+</div>
+
+      
+    </footer>
+  
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+  </ul>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/Ward Adriaensen?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 -  Ward A. <br/>
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a> + <a href="https://github.com/ioveracker/mnml">mnml</a>.
+	  
+  </span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
